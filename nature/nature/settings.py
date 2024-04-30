@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-vosc#4#+21#-se*&!zfw^*%6oa(*f+0o+t@_%yq1!$p_(6(ldv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['greenworld1.azurewebsites.net','localhost']
 
 
 # Application definition
